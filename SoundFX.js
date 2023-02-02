@@ -3,7 +3,7 @@
 var SOUND_FX = new (function () {
 
   // SoundFX Paths
-  var _audio_prefix_path = "./soundFX/";
+  var _audio_prefix_path = "https://cdn.jsdelivr.net/gh/Popcape9/tetris-like-game@main/soundFX/";
   var _audio_rotateKeys_path = "rotate_keys.WAV";
   var _audio_resolve1_path = "resolve-1.WAV";
   var _audio_resolve2_path = "resolve-2.WAV";
